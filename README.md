@@ -2,6 +2,7 @@
 
 - Check out our main project: <a href="https://github.com/n8n-io/n8n">Click Here</a>
 - Help us improve our product and join our team: <a href="https://n8n.io/careers">n8n open positions</a>
+- Each colleague has $100 per month to give to open-source/fair-code projects they care about. Check out the projects our team has supported so far [here on OpenCollective](https://opencollective.com/n8n).
 
 ![Image](https://blog.n8n.io/content/images/size/w1200/2022/07/google-sheets-mysql8.png)
 
