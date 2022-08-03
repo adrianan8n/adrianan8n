@@ -1,4 +1,4 @@
-### Hi there, this is n8n 👋
+### Hi there, this is Adriana from n8n 👋
 
 - Check out our main project: <a href="https://github.com/n8n-io/n8n">Click Here</a>
 - Help us improve our product and join our team: <a href="https://n8n.io/careers">n8n open positions</a>
